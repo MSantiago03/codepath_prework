@@ -48,6 +48,12 @@ Procreate
     Cheaper alternative to adobe software with lots of good tools
     Cool tools to alter images and colors - useful for physical art
 
+IDEA:
+ An idea I have for my app is for hybrid athletes. I myself consider mnyself as someone who likes to run and lift. I like the idea of being able to track both sessions on the 
+ same platform. I have taken a lot of inspiration from two apps I have mentioned above. Something I'd like to do is make use of APIs for gps tracking and maybe AI (the AI is something
+ I would like to figure out later. One of my biggest motivations for this platoform is getting over the paywall that exits on the previously mentioned apps while also centralizing 
+ important inforamtion for athletes. I have other other ideas that I would also like to implememnt in order to allow schools and teams to use the app.
+
 
 ## Notes
 
